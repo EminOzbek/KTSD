@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="911a97cd-88cf-4b6e-b705-e72fc5acba8c" name="ktsd-org" url="http://api.ktsd.org.tr">
+        <fileTransfer rootFolder="/api" host="api.ktsd.org.tr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
